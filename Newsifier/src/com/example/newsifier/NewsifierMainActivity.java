@@ -11,7 +11,7 @@ public class NewsifierMainActivity extends DroidGap {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         /*setContentView(R.layout.activity_newsifier_main);*/
-        super.loadUrl("file:///android_asset/www/index.html");
+        super.loadUrl("file:///android_asset/www/alpha/index.html");
     }
 
     @Override
